@@ -40,7 +40,7 @@
     "@types/jasmine": "~3.5.0",
     "@types/jasminewd2": "~2.0.3",
     "@types/node": "^12.11.1",
-    "browser-sync": "^2.26.7",
+    "browser-sync": "^2.29.3",
     "codelyzer": "^5.1.2",
     "enhanced-resolve": "^4.2.0",
     "jasmine-core": "~3.5.0",
